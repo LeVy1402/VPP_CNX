@@ -1,6 +1,6 @@
 ﻿namespace VanPhongPham
 {
-    partial class Form2
+    partial class Đăng_Kí
     {
         /// <summary>
         /// Required designer variable.
@@ -28,10 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Đăng_Kí
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form2";
+            this.Name = "Đăng_Kí";
+            this.Text = "Đăng Nhập";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

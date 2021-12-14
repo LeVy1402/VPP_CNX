@@ -1,0 +1,12 @@
+D:\121CNX01\VPP_CNX\VanPhongPham\bin\Debug\VanPhongPham.exe.config
+D:\121CNX01\VPP_CNX\VanPhongPham\bin\Debug\VanPhongPham.exe
+D:\121CNX01\VPP_CNX\VanPhongPham\bin\Debug\VanPhongPham.pdb
+D:\121CNX01\VPP_CNX\VanPhongPham\obj\Debug\VanPhongPham.csprojAssemblyReference.cache
+D:\121CNX01\VPP_CNX\VanPhongPham\obj\Debug\VanPhongPham.frmMain.resources
+D:\121CNX01\VPP_CNX\VanPhongPham\obj\Debug\VanPhongPham.Properties.Resources.resources
+D:\121CNX01\VPP_CNX\VanPhongPham\obj\Debug\VanPhongPham.Đăng_Kí.resources
+D:\121CNX01\VPP_CNX\VanPhongPham\obj\Debug\VanPhongPham.frmDangNhap.resources
+D:\121CNX01\VPP_CNX\VanPhongPham\obj\Debug\VanPhongPham.csproj.GenerateResource.cache
+D:\121CNX01\VPP_CNX\VanPhongPham\obj\Debug\VanPhongPham.csproj.CoreCompileInputs.cache
+D:\121CNX01\VPP_CNX\VanPhongPham\obj\Debug\VanPhongPham.exe
+D:\121CNX01\VPP_CNX\VanPhongPham\obj\Debug\VanPhongPham.pdb

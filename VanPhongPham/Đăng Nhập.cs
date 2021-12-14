@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace VanPhongPham
 {
-    public partial class Form2 : Form
+    public partial class Đăng_Kí : Form
     {
-        public Form2()
+        public Đăng_Kí()
         {
             InitializeComponent();
         }
